@@ -15,8 +15,7 @@
   <properties>
 	<!-- versions -->
 	<sonar.host.url>http://3.111.39.51:9000/</sonar.host.url>
-	 <sonar.login>squ_3a7a95af970d25096750dc0db4cd800928f2bba1</sonar.login>
-	  
+	 <sonar.login>squ_3a7a95af970d25096750dc0db4cd800928f2bba1</sonar.login>  
 	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 </properties>
@@ -31,7 +30,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://65.2.175.55:9980/mithuntechnologies/repository/facebook-snapshot/</url>
+	      <urlhttp://65.2.175.55:9980/mithuntechnologies/repository/facebook-snapshot/></url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>

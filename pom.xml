@@ -26,7 +26,7 @@
 	      <name>Mithun Technologies Releases Nexus Repository</name>
 	      <url>http://65.2.175.55:9980/mithuntechnologies/repository/facebook-releases/</url>
 	    </repository>
-	    
+    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
